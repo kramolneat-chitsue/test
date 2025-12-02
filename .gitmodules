@@ -1,0 +1,3 @@
+[submodule "llama_index"]
+	path = llama_index
+	url = https://github.com/noppadol-assava/llama_index.git
